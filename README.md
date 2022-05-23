@@ -18,7 +18,7 @@ No installation needed.
 ## Usage 
 This is not a function application. It is for test purposes.
 <br>
-Please view deployed Git Hub [URL](https://nicolewallace09.github.io/challenge-code-refactor/)
+Please view deployed Git Hub [URL](https://epw80.github.io/Code-Refactor/)
 <img src="./assets/images/Website-1.png">
 <img src="./assets/images/Website-2.png">
 
